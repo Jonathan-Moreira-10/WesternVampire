@@ -15,7 +15,7 @@ export default function Counter() {
       }
       else{
        setNumber(number -1)
-      }
+      }s
       
     } 
     
